@@ -1,0 +1,31 @@
+
+# 2025-11-09 15:59:04.837760
++N
+
+# 2025-11-09 15:59:17.770864
++em-recommendor-ai  ./setup.sh
++
++Magento Product Recommender AI - Interactive Setup
++==================================================
++
++This script will:
++1. Check for and optionally stop existing instances
++2. Start the backend server on port 8000
++3. Start the frontend server on port 3000
++4. Verify everything is working
++
++Continue? (y/n): y
++Checking for running instances...
++Starting backend server (FastAPI) on port 8000...
++Backend server started with PID: 158555
++✗ Backend server failed to start. Check backend.log for details.
++
+
+# 2025-11-09 15:59:32.341810
++No
+
+# 2025-11-09 15:59:36.504063
++N
+
+# 2025-11-09 15:59:40.397726
++review
