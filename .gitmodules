@@ -1,0 +1,3 @@
+[submodule "cli-tool"]
+	path = cli-tool
+	url = https://github.com/kapilthakare-cyberpunk/chatgpt-product-recommender-cli.git
