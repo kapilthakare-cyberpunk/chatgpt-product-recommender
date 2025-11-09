@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Distribution
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Local config
+.chatgpt-product-recommender/
+
+# Frontend build files
+magento-product-item-recommendor-ai/frontend/.next/
+magento-product-item-recommendor-ai/frontend/out/
